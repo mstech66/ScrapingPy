@@ -22,5 +22,7 @@ Web Scraping HNGU Results with Python 2.7 and BeautifulSoup
  pip install requests
 ```
 > Then go ahead run the script with ```python script.py```
+
 > This will generate a CSV File with all the results. So, teachers won't need to manually check result of each student.
+
 > This saves time and reduces work stress.
