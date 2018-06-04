@@ -2,9 +2,9 @@
 Web Scraping HNGU Results with Python 2.7 and BeautifulSoup
 
 ## Pre-Requisite
-> Python 2.7 (Get it at : https://www.python.org/download/releases/2.7/)
-> Beautiful Soup
-> Requests
+> - Python 2.7 (Get it at : https://www.python.org/download/releases/2.7/)
+> - Beautiful Soup
+> - Requests
 
 ## Getting Started
 ###### **Beautiful Soup**
